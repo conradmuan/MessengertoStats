@@ -4,6 +4,7 @@
     "description": "gets data out of downloaded facebook data (chat html pages)",
     "main": "script.js",
     "scripts": {
+        "main": "node script",
         "test": "echo \"it works\" && exit 1"
     },
     "author": "kevin hauman",

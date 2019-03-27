@@ -1,10 +1,10 @@
 1. [install node.js](https://nodejs.org/)
 
-2. run 'install.bat'
+2. run `npm install`
 
 3. please put downloaded chat JSON files into the inputs folder
 
-4. run 'run.bat'
+4. run `npm run main`
 
 5. wait
 
